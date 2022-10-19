@@ -1,0 +1,3 @@
+JMH S 24 org.donghoon.MyBenchmark S 67 org.donghoon.jmh_generated.MyBenchmark_measureJsonWriteTime_jmhTest S 20 measureJsonWriteTime S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 24 org.donghoon.MyBenchmark S 66 org.donghoon.jmh_generated.MyBenchmark_measureORCWriteTime_jmhTest S 19 measureORCWriteTime S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 24 org.donghoon.MyBenchmark S 70 org.donghoon.jmh_generated.MyBenchmark_measureParquetWriteTime_jmhTest S 23 measureParquetWriteTime S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 

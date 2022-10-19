@@ -1,0 +1,12 @@
+{"namespace" : "org.donghoon",
+	"type": "record",
+	"name": "MapData",
+	"fields": [
+	{"name": "logtime", "type": [{"type": "long", "logicalType": "timestamp-millis"}, "null"]},
+	{"name": "timezone", "type": "string"},
+	{"name": "logid", "type": "int"},
+	{"name": "seq", "type": "int"},
+	{"name": "info", "type": "string"},
+	{"name": "plogdate", "type": "string"}	
+	]
+}
